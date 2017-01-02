@@ -1,7 +1,6 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.model;
+package id.sch.smktelkom_mlg.learn.recyclerview2.model;
 
 import android.graphics.drawable.Drawable;
-import android.graphics.drawable.DrawableWrapper;
 
 /**
  * Created by Mokleters on 12/31/2016.
